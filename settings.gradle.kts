@@ -8,8 +8,8 @@ pluginManagement {
         id("io.github.gradle-nexus.publish-plugin") version "1.1.0"
         id("net.researchgate.release") version "2.8.1"
         id("org.seasar.doma.compile") version "1.1.0"
-        kotlin("jvm") version "1.6.21"
-        kotlin("kapt") version "1.6.21"
+        kotlin("jvm") version "1.8.10"
+        kotlin("kapt") version "1.8.10"
     }
 }
 
